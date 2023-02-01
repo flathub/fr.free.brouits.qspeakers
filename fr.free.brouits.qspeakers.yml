@@ -18,4 +18,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/be1/qspeakers.git
-        commit: "cd42fec640a7c3054861083db4a6784cbc84afb1"
+        commit: "9f89fb7897804bb5485d4479152e0200bfbdbb77"
